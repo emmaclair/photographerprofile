@@ -8,7 +8,7 @@
   flex-direction: column;
   background: linear-gradient(
     to right,
-    /* #8f7592, */
+    #8f7592,
     #8f7592 25%,
     #081e47 25%,
     #081e47
@@ -16,6 +16,7 @@
   line-height: 0.1;
   padding-top: 100px;
   padding-right: 200px;
+  margin-bottom: -15px;
 }
 
 #name {
@@ -50,6 +51,7 @@
   text-align: left;
   padding-right: 200px;
   padding-left: 950px;
+  
 }
 
 #services {
@@ -70,7 +72,7 @@
     #081e47 25%,
     #081e47
   );
-  margin-bottom: -60px;
+  
 }
 
 #about-me {
@@ -132,6 +134,7 @@
   color: white;
   margin-left: 150px;
   margin-right: 30px;
+  
   margin-bottom: 20px;
   background-color: #081e47;
   border: none;
